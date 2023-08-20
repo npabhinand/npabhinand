@@ -9,12 +9,7 @@ I'm a dedicated software developer with a burning passion for creating impactful
 * 🌍  I'm based in Calicut
 * ✉️  You can contact me at [npabinand@gmail.com](mailto:npabinand@gmail.com)
 
-### Skills
 
-
-<p align="left">
-ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON
-</p>
 
 
 ### Socials
