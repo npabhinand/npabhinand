@@ -6,7 +6,7 @@ Software Developer
 
 I'm a dedicated software developer with a burning passion for creating impactful applications that make a difference. My journey in the world of programming has been driven by curiosity, continuous learning, and a commitment to turning complex challenges.
 
-* 🌍  I'm based in Calicut
+* 🌍  I'm based in Kozhikode
 * ✉️  You can contact me at [npabinand@gmail.com](mailto:npabinand@gmail.com)
 
 
