@@ -1,13 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891b2,100:1c1917&height=190&section=header&text=Abhinand%20Narayanan&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Software%20Developer%20%E2%80%A2%20Kozhikode%2C%20India&descAlignY=58&descSize=16" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891b2,100:1c1917&height=190&section=header&text=Abhinand%20Narayanan&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20Developer%20%E2%80%A2%20Kozhikode%2C%20India&descAlignY=58&descSize=16" width="100%" />
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=0891B2&center=true&vCenter=true&width=560&lines=Full-stack+developer;Next.js+%E2%80%A2+TypeScript+%E2%80%A2+Spring+Boot;Turning+complex+problems+into+simple+products" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=0891B2&center=true&vCenter=true&width=600&lines=Junior+Software+Engineer+%40+Datafloat+Technologies;React+%E2%80%A2+Next.js+%E2%80%A2+Spring+Boot;Web+%2B+mobile+apps+with+React+Native;Turning+complex+problems+into+simple+products" alt="Typing SVG" /></a>
 
 <p>
-  <a href="https://www.linkedin.com/in/npabhinand" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://www.dribbble.com/naryanan" target="_blank"><img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" alt="Dribbble" /></a>
-  <a href="mailto:npabinand@gmail.com"><img src="https://img.shields.io/badge/Email-1c1917?style=for-the-badge&logo=gmail&logoColor=0891b2" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/npabhinand/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:npabhinand@outlook.com"><img src="https://img.shields.io/badge/Email-1c1917?style=for-the-badge&logo=microsoftoutlook&logoColor=0891b2" alt="Email" /></a>
   <img src="https://komarev.com/ghpvc/?username=npabhinand&style=for-the-badge&color=0891b2&label=PROFILE+VIEWS" alt="Profile views" />
 </p>
 
@@ -17,21 +16,30 @@
 
 ### 👋 About me
 
-I'm a software developer who loves building applications that make a real difference. Curiosity and continuous learning drive how I work — I enjoy taking complex challenges and turning them into clean, simple, reliable products.
+I'm a full stack developer who builds scalable web and mobile applications with **React, Next.js, React Native and Spring Boot**. I enjoy taking complex business requirements and turning them into clean, reliable, maintainable products.
 
+- 💼 **Junior Software Engineer** at **Datafloat Technologies** — enterprise apps with React.js & Spring Boot, migrating legacy ZK Framework apps to modern Spring Boot
+- 🛠️ Previously **Software Developer at AppStation** and a **freelance full stack developer** (LMS, yoga class platform, Razorpay payments, GCP deployments)
+- 🎓 **MCA** — College of Engineering, Trivandrum · **BCA** — St. Joseph's College, Devagiri
 - 🌍 Based in **Kozhikode, Kerala, India**
-- 💻 Building full-stack apps with **Next.js, TypeScript and Spring Boot**
-- 🌱 Always learning — currently exploring better system design and clean architecture
-- 🤝 Open to collaborating on interesting projects
-- ✉️ Reach me at **[npabinand@gmail.com](mailto:npabinand@gmail.com)**
+- ⚽ Outside code: music, football and travelling
+- ✉️ Reach me at **[npabhinand@outlook.com](mailto:npabhinand@outlook.com)**
 
 ---
 
 ### 🛠️ Tech stack
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,nodejs,java,spring,postgres,git,github,figma,vscode&perline=13" alt="Tech stack" />
-</p>
+**Frontend & Mobile**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,redux&perline=8" alt="Frontend" />
+
+**Backend & Databases**
+
+<img src="https://skillicons.dev/icons?i=java,spring,nodejs,postgres,mongodb,redis&perline=8" alt="Backend" />
+
+**Cloud & Tools**
+
+<img src="https://skillicons.dev/icons?i=gcp,aws,firebase,cloudflare,docker,git,github,postman,vscode&perline=9" alt="Cloud and tools" />
 
 ---
 
