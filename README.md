@@ -18,7 +18,7 @@
 
 I'm a full stack developer who builds scalable web and mobile applications with **React, Next.js, React Native and Spring Boot**. I enjoy taking complex business requirements and turning them into clean, reliable, maintainable products.
 
-- 💼 **Junior Software Engineer** at **Datafloat Technologies** — enterprise apps with React.js & Spring Boot, migrating legacy ZK Framework apps to modern Spring Boot
+- 💼 **Software Engineer**  — enterprise apps with React.js & Spring Boot, migrating legacy ZK Framework apps to modern Spring Boot
 - 🛠️ Previously **Software Developer at AppStation** and a **freelance full stack developer** (LMS, yoga class platform, Razorpay payments, GCP deployments)
 - 🎓 **MCA** — College of Engineering, Trivandrum · **BCA** — St. Joseph's College, Devagiri
 - 🌍 Based in **Kozhikode, Kerala, India**
